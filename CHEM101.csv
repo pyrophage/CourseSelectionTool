@@ -1,0 +1,13 @@
+CRN,Subj,Crse,Sec,Campus,Cred,LectureDays,LectureTime,LabDay1,LabTime1,LabDay2,LabTime2
+11784,CHEM,101,11,M,5,TR,11:00 am-12:15 pm,M,10:00 am-11:50 am,F,11:00 am-11:50 am
+23707,CHEM,101,12,M,5,TR,11:00 am-12:15 pm,M,10:00 am-11:50 am,F,11:00 am-11:50 am
+23708,CHEM,101,13,M,5,TR,11:00 am-12:15 pm,M,10:00 am-11:50 am,F,11:00 am-11:50 am
+23709,CHEM,101,14,M,5,TR,11:00 am-12:15 pm,M,10:00 am-11:50 am,F,11:00 am-11:50 am
+11785,CHEM,101,21,M,5,TR,12:30 pm-01:45 pm,M,01:00 pm-02:50 pm,F,01:00 pm-01:50 pm
+23753,CHEM,101,22,M,5,TR,12:30 pm-01:45 pm,M,01:00 pm-02:50 pm,F,01:00 pm-01:50 pm
+23763,CHEM,101,23,M,5,TR,12:30 pm-01:45 pm,M,01:00 pm-02:50 pm,F,01:00 pm-01:50 pm
+23770,CHEM,101,24,M,5,TR,12:30 pm-01:45 pm,M,01:00 pm-02:50 pm,F,01:00 pm-01:50 pm
+11791,CHEM,101,31,M,5,TR,03:30 pm-04:45 pm,M,03:00 pm-04:50 pm,F,03:30 pm-04:20 pm
+23784,CHEM,101,32,M,5,TR,03:30 pm-04:45 pm,M,03:00 pm-04:50 pm,F,03:30 pm-04:20 pm
+23797,CHEM,101,33,M,5,TR,03:30 pm-04:45 pm,M,03:00 pm-04:50 pm,F,03:30 pm-04:20 pm
+23803,CHEM,101,34,M,5,TR,03:30 pm-04:45 pm,M,03:00 pm-04:50 pm,F,03:30 pm-04:20 pm

@@ -1,0 +1,10 @@
+CRN,Subj,Crse,Sec,Campus,Cred,LectureDays,LectureTime,LabDays,LabTime
+11996,BIO,111,1,M,4,TR,09:30 am-10:45 am,W,08:00 am-09:50 am
+24313,BIO,111,2,M,4,TR,09:30 am-10:45 am,F,08:00 am-09:50 am
+24314,BIO,111,3,M,4,TR,09:30 am-10:45 am,W,10:00 am-11:50 am
+12001,BIO,111,5,M,4,TR,12:30 pm-01:45 pm,W,12:00 pm-01:50 pm
+24316,BIO,111,6,M,4,TR,12:30 pm-01:45 pm,F,12:00 pm-01:50 pm
+24317,BIO,111,7,M,4,TR,12:30 pm-01:45 pm,W,02:00 pm-03:50 pm
+12003,BIO,111,9,M,4,TR,05:00 pm-06:15 pm,F,02:00 pm-03:50 pm
+24319,BIO,111,10,M,4,TR,05:00 pm-06:15 pm,R,10:00 am-11:50 am
+24320,BIO,111,11,M,4,TR,05:00 pm-06:15 pm,R,02:00 pm-03:50 pm
